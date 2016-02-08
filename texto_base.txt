@@ -2,4 +2,8 @@ Linea 1 para inicio
 Segunda linea escrita en servidor
 Tercera escrita en local
 444444 desde MASTER en local
+<<<<<<< HEAD
 55555 MASTER local
+=======
+5555 MASTER SERVER
+>>>>>>> dc803a8b37f4bab0db41c7038196c5a0ec89dcbb
