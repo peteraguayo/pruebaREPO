@@ -1,8 +1,4 @@
 Linea 1 para inicio
-<<<<<<< HEAD
 Segunda linea escrita en servidor
 Tercera escrita en local
-=======
-Linea 1 para develop EXTENDIDA DESDE EL SERVIDOR
-Tercera linea escrita desde DEVELOP en local
->>>>>>> develop
+444444 desde MASTER en local
